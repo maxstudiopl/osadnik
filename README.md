@@ -1,0 +1,2 @@
+# osadnik
+gra
